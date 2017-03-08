@@ -1,0 +1,3 @@
+Circle Area: 314 Perimetr: 62.8
+Rectangle Area: 55 Perimetr: 32
+Triangle Area: 8 Perimetr: 13.6569
